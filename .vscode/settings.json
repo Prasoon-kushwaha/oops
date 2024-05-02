@@ -1,0 +1,7 @@
+{
+    "CodeGPT.apiKey": "CodeGPT Plus Beta",
+    "files.associations": {
+        "string": "cpp",
+        "ostream": "cpp"
+    }
+}
